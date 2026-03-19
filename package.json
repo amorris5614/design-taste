@@ -1,6 +1,6 @@
 {
   "name": "design-taste",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Elite frontend design taste for Claude Code / Cowork \u2014 a merged synthesis of emilkowalski/skill, pbakaus/impeccable, and leonxlnx/taste-skill. Typography, color, motion, components, anti-slop.",
   "main": "src/index.js",
   "scripts": {
